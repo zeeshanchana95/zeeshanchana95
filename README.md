@@ -1,4 +1,4 @@
-![Profile picture width="100" height="100"](https://avatars.githubusercontent.com/zeeshanchana95)
+![Profile picture width="50" height="50"](https://avatars.githubusercontent.com/zeeshanchana95)
 
 # Zeeshan Ahmed Channa
 
