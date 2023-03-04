@@ -1,5 +1,5 @@
-![Profile picture width="50" height="50"](https://avatars.githubusercontent.com/zeeshanchana95)
-
+<!-- ![Profile picture](https://avatars.githubusercontent.com/zeeshanchana95)
+ -->
 # Zeeshan Ahmed Channa
 
 Front-end Developer
