@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanchana95&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanchana95" /> </p>
 
 ## I'm a Front-end Developer!
-- 🌱 I’m currently work to enhance my front-end skills
+- 🌱 I’m currently trying to enhance my front-end skills
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn back-end development
-- ⚡ Fun fact: I love to learn new things, read books, and code.
+- 🥅 My 2023 Goals: Learn Back-end Development
+- ⚡ Fun fact: I love to code, learn new things, read books, solve puzzles and travel.
 
 ## Progress
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95" alt="zeeshanchana95" /></a></p>
