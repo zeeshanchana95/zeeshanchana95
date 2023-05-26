@@ -4,7 +4,7 @@
 ## I'm a Front-end Developer!
 - 🌱 I’m currently trying to enhance my front-end skills
 - 👯 I’m looking to collaborate with other developers
-- 🥅 My 2023 Goals: Learn Back-end Development
+- 🥅 My 2023 Goals: Become MERN Stack Developer
 - ⚡ Fun fact: I love to code, learn new things, read books, solve puzzles and travel.
 
 ## Progress
