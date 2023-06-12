@@ -11,8 +11,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95" alt="zeeshanchana95" /></a></p>
 
 
-
-
 ## Languages and Tools:
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
