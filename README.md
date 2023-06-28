@@ -11,6 +11,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95" alt="zeeshanchana95" /></a></p>
 
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanchana95&show_icons=true&locale=en&layout=compact" alt="zeeshanchana95" />
+</p>
+
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanchana95&show_icons=true&locale=en" alt="zeeshanchana95" />
+</p>
+<br>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95&" alt="zeeshanchana95" />
+</p>
+<br>
+
+
 ## Languages and Tools:
 <ul>
 	<ul>
