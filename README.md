@@ -33,8 +33,8 @@
 		<li>JavaSript</li>
 		<li>jQuery</li>
 		<li>Reactjs</li>
-		<li>TypeScript</li>
 		<li>NPM</li>
+		<li>TypeScript</li>
 		<li>Nodejs</li>
 		<li>Express</li>
 		<li>MongoDB</li>
