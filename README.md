@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95" alt="zeeshanchana95" /></a> </p>
 
-- 🔭 I’m currently working on **Project named Soul Faith Assistant "Your Own Guide to Islam"**
+- 🔭 I’m currently **learning new topics each and everyday and doing projects**
 
 - 🌱 I’m currently learning **Back-end Development**
 
