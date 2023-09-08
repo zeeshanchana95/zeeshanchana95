@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **learning new topics each and everyday and doing projects**
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱My goal is to become **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)
 
@@ -19,7 +19,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanchana95&show_icons=true&locale=en&layout=compact" alt="zeeshanchana95" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanchana95&show_icons=true&locale=en" alt="zeeshanchana95" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95&" alt="zeeshanchana95" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
