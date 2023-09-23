@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed Channa</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanchana95&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanchana95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95" alt="zeeshanchana95" /></a> </p>
 
-- 🔭 I’m currently **learning new topics each and everyday and doing projects**
+- 🔭 I’m currently **learning new topics each and every day and doing projects**
 
 - 🌱My goal is to become **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)
 
-- 💬 Ask me about **Front-end Development, Web, Back-end Development, MERN Stack Development**
+- 💬 Ask me about **Front-end Development**
 
 - 📫 How to reach me **zeeshanchana95@gmail.com**
 
