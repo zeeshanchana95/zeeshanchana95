@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95" alt="zeeshanchana95" /></a> </p>
 
-- 🔭 I’m currently **learning new topics each and every day and doing projects**
+- 🔭 I’m currently **learning new topics related to Web Development, each and every day and practice by doing projects**
 
 - 🌱My goal is to become **Full Stack Developer**
 
