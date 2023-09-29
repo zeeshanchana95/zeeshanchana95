@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed Channa</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanchana95&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanchana95" /> </p>
 
@@ -29,12 +29,12 @@
 		<li>HTML</li>
 		<li>CSS</li>
 		<li>Bootstrap</li>
-		<li>Tailwind CSS</li>
+<!-- 		<li>Tailwind CSS</li> -->
 		<li>JavaSript</li>
-		<li>jQuery</li>
+<!-- 		<li>jQuery</li> -->
 		<li>Reactjs</li>
 		<li>NPM</li>
-		<li>TypeScript</li>
+<!-- 		<li>TypeScript</li> -->
 		<li>Nodejs</li>
 		<li>Express</li>
 		<li>MongoDB</li>
