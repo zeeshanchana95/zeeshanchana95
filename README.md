@@ -6,17 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95&" alt="zeeshanchana95" /></a> </p>
 
 - 🔭 I’m currently **learning new topics related to Web Development, each and every day and practice by doing projects**
-
 - 🌱My goal is to become **Full Stack Developer**
-
 - 👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)
-
 - 💬 Ask me about **Front-end Development**
-
 - 📫 How to reach me **zeeshanchana95@gmail.com**
 
 <br><br>
-
 
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanchana95&show_icons=true&locale=en&layout=compact" alt="zeeshanchana95" />
