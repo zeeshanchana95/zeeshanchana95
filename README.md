@@ -20,7 +20,7 @@
 </p>
 
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95" alt="zeeshanchana95" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95" alt="zeeshanchana95"/>
 </p>
 
 
