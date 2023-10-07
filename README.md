@@ -32,6 +32,8 @@
     - Kotlin
     - Python
     - Dart
+    - C++
+    - C#
 - Libraries/Frameworks
     - Bootstrap
     - jQuery
