@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed Channa</h1>
 <h2 align="center">A passionate Web Developer</h2>
 
