@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=30&multiline=true&width=700&lines=Welcome+to+ZEESHAN's+GitHub+Profile)
+## <p align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=30&multiline=true&width=700&lines=Welcome+to+ZEESHAN+Ahmed's+GitHub+Profile)</p>
 
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed Channa</h1>
 <h2 align="center">A passionate Web Developer</h2>
