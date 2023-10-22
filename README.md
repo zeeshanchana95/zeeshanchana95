@@ -16,7 +16,7 @@
 	<li>🌱My goal is to become <strong>Full Stack Developer</strong></li>
 	<li>👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)</li>
 	<li>💬 Ask me about <strong>Web Development</strong></li>
-	<li>📫Reach me out at <strong>zeeshanchana95@gmail.com</strong></li>
+	<li>📫Reach me out at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></li>
 </ul>
 
 <p align="center"> 
