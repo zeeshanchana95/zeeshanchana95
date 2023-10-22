@@ -11,12 +11,6 @@
 	<img src="https://komarev.com/ghpvc/?username=zeeshanchana95&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanchana95" />
 </p>
 
-<p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95&" alt="zeeshanchana95" />
-	</a>
-</p>
-
 <ul>
 	<li>🔭 I’m currently <strong>learning new topics related to Web Development each and every day and practice by doing projects</strong></li>
 	<li>🌱My goal is to become <strong>Full Stack Developer</strong></li>
@@ -24,6 +18,12 @@
 	<li>💬 Ask me about <strong>Web Development</strong></li>
 	<li>📫Reach me out at <strong>zeeshanchana95@gmail.com</strong></li>
 </ul>
+
+<p align="center"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95&" alt="zeeshanchana95" />
+	</a>
+</p>
 
 
 <p>
