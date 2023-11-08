@@ -34,40 +34,11 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95" alt="zeeshanchana95"/>
 </p>
 
-## Languages and Tools
-- Languages
-    - HTML
-    - CSS
-    - JavaScript
-    - Java
-    - Kotlin
-    - Python
-    - Dart
-    - C++
-    - C#
-- Libraries/Frameworks
-    - Bootstrap
-    - jQuery
-    - Tailwind CSS
-    - React
-    - Express
-- Query Languages, Databases and DBMS
-    - SQL, MySQL
-    - Firebase
-    - Mongoose, MongoDB
-- Version Control
-    - Git
-    - GitHub
-- Package Managers:
-    - NPM
-    - YARN
-- Runtime Environment
-    - Nodejs
-- IDEs and others
-    - Visual Studio Code (vs code)
-    - Android Studio
-    - IntelliJ IDEA
-    - Jupyter Notebook
+## Tech Stack:
+- HTML
+- CSS
+- JavaScript
+- React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
