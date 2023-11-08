@@ -11,28 +11,30 @@
 	<img src="https://komarev.com/ghpvc/?username=zeeshanchana95&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanchana95" />
 </p>
 
-<ul>
-	<li>🔭 I’m currently <strong>learning new topics related to Web Development each and every day and practice by doing projects</strong></li>
-	<li>🌱My goal is to become <strong>Full Stack Developer</strong></li>
-	<li>👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)</li>
-	<li>💬 Ask me about <strong>Web Development</strong></li>
-	<li>📫Reach me out at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></li>
-</ul>
+<div>
+	<p>🔭 I’m currently <strong>learning new topics related to Web Development each and every day and practice by doing projects</strong></p>
+	<p>🌱My goal is to become <strong>Full Stack Developer</strong></p>
+<!-- 	<li>👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)</li> -->
+	<p>💬 Ask me about <strong>Web Development</strong></p>
+	<p>📫Reach me out at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></p>
+</div>
 
-<p align="center"> 
+<div> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95&" alt="zeeshanchana95" />
 	</a>
-</p>
+</div>
 
 
+<div>
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanchana95&show_icons=true&locale=en&layout=compact" alt="zeeshanchana95" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanchana95&show_icons=true&locale=en&layout=compact" alt="zeeshanchana95" />
 </p>
 
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95" alt="zeeshanchana95"/>
 </p>
+</div>
 
 ## Tech Stack:
 - HTML
