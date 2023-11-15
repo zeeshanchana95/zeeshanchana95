@@ -15,7 +15,7 @@
 	<p>🔭 I’m currently <strong>learning new topics related to Web Development each and every day and practice by doing projects</strong></p>
 	<p>🌱My goal is to become <strong>Full Stack Developer</strong></p>
 <!-- 	<li>👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)</li> -->
-	<p>💬 Ask me about <strong>Web Development</strong></p>
+	<p>💬 Ask me about <strong>HTML, CSS, JavaScript, ES6, React, Frontend Development</strong></p>
 	<p>📫Reach me out at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></p>
 </div>
 
