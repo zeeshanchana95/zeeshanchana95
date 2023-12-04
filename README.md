@@ -1,30 +1,38 @@
-## <p align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=30&multiline=true&width=700&lines=Welcome+to+ZEESHAN+Ahmed's+GitHub+Profile)</p>
+## <p> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=25&multiline=true&width=900&lines=WELCOME+TO+ZEESHAN+AHMED's+GitHub+Profile)</p>
 
-<h1 align="center">
+<!--<h2 align="center">
 	Hi 👋, I'm Zeeshan Ahmed Channa
-</h1>
-<h2 align="center">
-	A passionate Web Developer
 </h2>
+<h3 align="center">
+	A passionate Web Developer
+</h3>-->
  
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=zeeshanchana95&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanchana95" />
 </p>
 
 <div>
-	<p>🔭 I’m currently <strong>learning new topics related to Web Development each and every day and practice by doing projects</strong></p>
-	<p>🌱My goal is to become <strong>Full Stack Developer</strong></p>
-<!-- 	<li>👨‍💻 All of my projects are available at [https://github.com/zeeshanchana95?tab=repositories](https://github.com/zeeshanchana95?tab=repositories)</li> -->
-	<p>💬 Ask me about <strong>HTML, CSS, JavaScript, ES6, React, Frontend Development</strong></p>
-	<p>📫Reach me out at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></p>
+	<p>👋 Hi, I'm Zeeshan Ahmed Channa</p>
+	<p>👨‍💻 Web Developer, create responsive, user-friendly and dynamic websites</p> 
+	<p>💡 Passionate about clean code and user-centric solutions</p> 
+	<p>📫Reach out to me at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></p>
 </div>
 
+<!--
 <div> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95&" alt="zeeshanchana95" />
 	</a>
 </div>
+-->
 
+
+## Tech Stack:
+- HTML
+- CSS
+- JavaScript
+- ES6
+- React
 
 <div>
 <p>
@@ -35,12 +43,6 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95" alt="zeeshanchana95"/>
 </p>
 </div>
-
-## Tech Stack:
-- HTML
-- CSS
-- JavaScript
-- React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
