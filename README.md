@@ -33,6 +33,8 @@
 - JavaScript
 - ES6
 - React
+- Tailwind CSS
+- Bulma CSS
 
 <div>
 <p>
