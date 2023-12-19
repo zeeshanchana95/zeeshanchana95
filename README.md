@@ -35,6 +35,8 @@
 - React
 - Tailwind CSS
 - Bulma CSS
+- Wordpress
+
 
 <div>
 <p>
