@@ -36,6 +36,7 @@
 - Tailwind CSS
 - Bulma CSS
 - Wordpress
+- MySQL + SQL
 
 
 <div>
