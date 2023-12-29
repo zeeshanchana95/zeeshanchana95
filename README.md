@@ -37,6 +37,7 @@
 - Bulma CSS
 - Wordpress
 - MySQL + SQL
+- Git 
 
 
 <div>
