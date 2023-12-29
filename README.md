@@ -32,7 +32,7 @@
 - CSS
 - JavaScript
 - ES6
-- React
+- React + formik and yup
 - Tailwind CSS
 - Bulma CSS
 - Wordpress
