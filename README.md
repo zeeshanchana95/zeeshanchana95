@@ -1,12 +1,5 @@
 ## <p> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=25&multiline=true&width=900&lines=WELCOME+TO+ZEESHAN+AHMED's+GitHub+Profile)</p>
 
-<!--<h2 align="center">
-	Hi 👋, I'm Zeeshan Ahmed Channa
-</h2>
-<h3 align="center">
-	A passionate Web Developer
-</h3>-->
- 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=zeeshanchana95&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanchana95" />
 </p>
