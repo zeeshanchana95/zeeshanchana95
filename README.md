@@ -11,15 +11,6 @@
 	<p>📫Reach out to me at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></p>
 </div>
 
-<!--
-<div> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=zeeshanchana95&" alt="zeeshanchana95" />
-	</a>
-</div>
--->
-
-
 ## Tech Stack:
 - HTML
 - CSS
