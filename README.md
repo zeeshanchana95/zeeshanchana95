@@ -21,7 +21,7 @@
 - Bulma CSS
 - Wordpress
 - MySQL + SQL
-- Git 
+- Git + GitHub
 
 
 <div>
