@@ -11,7 +11,7 @@
 	<p>📫Reach out to me at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></p>
 </div>
 
-## Tech Stack:
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
