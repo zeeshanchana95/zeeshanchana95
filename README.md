@@ -16,7 +16,7 @@
 - CSS
 - JavaScript
 - ES6
-- React + formik and yup
+- React + formik and yup, Redux Toolkit
 - Tailwind CSS
 - Bulma CSS
 - Wordpress
