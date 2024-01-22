@@ -13,14 +13,13 @@
 
 ## Tech Stack
 - HTML
-- CSS
+- CSS + Bulma CSS, Tailwind CSS
 - JavaScript
 - ES6
-- React + formik and yup, Redux Toolkit
-- Tailwind CSS
-- Bulma CSS
+- React + formik and yup + Redux Toolkit
 - Wordpress
-- MySQL + SQL
+- MySQL and SQL
+- MongoDB
 - Git (Version Control)
 
 
