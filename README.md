@@ -17,6 +17,7 @@
 - CSS + Bulma CSS, Tailwind CSS
 - JavaScript
 - React + formik and yup + Redux Toolkit
+- TypeScript
 - Wordpress
 - MySQL and SQL
 - MongoDB
