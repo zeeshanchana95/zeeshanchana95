@@ -14,7 +14,7 @@
 
 ## Tech Stack
 - HTML
-- CSS + Bootstrap, Tailwind CSS
+- CSS + (Bootstrap, Tailwind CSS)
 - JavaScript
 - React + formik and yup + Redux Toolkit
 - TypeScript
