@@ -16,7 +16,7 @@
 - HTML
 - CSS + (Bootstrap, Tailwind CSS)
 - JavaScript
-- React + formik and yup + Redux Toolkit
+- React + (formik and yup + Redux Toolkit)
 - TypeScript
 - Wordpress
 - MySQL and SQL
