@@ -15,8 +15,9 @@
 ## Tech Stack
 - HTML
 - CSS + (Bootstrap, Tailwind CSS)
-- JavaScript
+- JavaScript + (ECHMA Script Features, DOM)
 - React + (formik and yup, Redux Toolkit)
+- Node
 - TypeScript
 - Wordpress
 - MySQL and SQL
