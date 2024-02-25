@@ -23,6 +23,7 @@
 - MySQL and SQL
 - MongoDB
 - Git (Version Control)
+- Linux Bash
 
 
 <div>
