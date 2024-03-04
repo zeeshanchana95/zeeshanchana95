@@ -24,6 +24,7 @@
 - MongoDB
 - Git (Version Control)
 - Linux Bash
+- Windows PowerShell
 
 
 <div>
