@@ -6,7 +6,7 @@
 
 <div>
 	<p>👋 Hi, I'm Zeeshan Ahmed Channa</p>
-	<p>👨‍💻 Web Developer, create responsive, user-friendly and dynamic websites uisng <strong>HTML, CSS, JavaScript, React, Node, and Wordpress</strong></p> 
+	<p>👨‍💻 Frontend Developer, create responsive and user-friendly websites uisng <strong>HTML, CSS, JavaScript, React, Next and Wordpress</strong></p> 
 	<p>💡 Passionate about clean code and user-centric solutions</p> 
 	<p>🎯 Currently, I am working on <strong>Nextjs</strong></p>
 	<p>📫Reach out to me at <a href=mailto:“zeeshanchana95@gmail.com”>zeeshanchana95@gmail.com</a></p>
