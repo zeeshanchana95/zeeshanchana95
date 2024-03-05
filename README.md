@@ -20,7 +20,7 @@
 - Node
 - TypeScript
 - Wordpress
-- MySQL and SQL
+- SQL (MySQL)
 - MongoDB
 - Git (Version Control)
 - Linux Bash
