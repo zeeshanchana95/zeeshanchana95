@@ -16,7 +16,7 @@
 - HTML
 - CSS + (Bootstrap, Tailwind CSS)
 - JavaScript + (ECHMA Script Features, DOM)
-- React + (formik and yup, Redux Toolkit)
+- React + (formik & yup, Redux Toolkit)
 - Node
 - TypeScript
 - Wordpress
