@@ -25,6 +25,7 @@
 - Git (Version Control)
 - Linux Bash
 - Windows PowerShell
+- C++
 - Java
 - Python
 
