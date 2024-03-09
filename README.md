@@ -23,6 +23,7 @@
 - SQL (MySQL)
 - MongoDB
 - Git (Version Control)
+- GitHub
 - Linux Bash
 - Windows PowerShell
 - C++
