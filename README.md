@@ -26,7 +26,7 @@
 - GitHub
 - Linux Bash
 - Windows PowerShell
-- Programming Languages: C++, Java, C#, Kotlin, Python
+- Other Programming Languages: C++, Java, C#, Kotlin, Python
 
 <div>
 <p>
