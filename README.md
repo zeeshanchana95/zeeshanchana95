@@ -14,10 +14,10 @@
 
 ## Tech Stack
 - HTML
-- CSS + (Bootstrap, SAAS, Tailwind CSS)
+- CSS + (Bootstrap, SaaS, Tailwind CSS)
 - JavaScript + (ECHMA Script Features, DOM)
 - React + (formik and yup, Redux Toolkit)
-- Node
+- Node + (Express)
 - TypeScript
 - Wordpress
 - SQL (MySQL)
