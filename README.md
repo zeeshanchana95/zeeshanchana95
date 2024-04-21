@@ -16,3 +16,14 @@ Hi! My name is Zeeshan Ahmed 😄
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<div>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanchana95&show_icons=true&locale=en&layout=compact" alt="zeeshanchana95" />
+</p>
+</div>
+
+<p>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanchana95" alt="zeeshanchana95"/>
+</p>
+
