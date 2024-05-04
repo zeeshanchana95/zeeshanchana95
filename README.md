@@ -1,7 +1,7 @@
 Hi! My name is Zeeshan Ahmed 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Pakistan.
+🌍  I am a Front-End React Developer based in Pakistan.
 <br/>
 
 ### Skills
