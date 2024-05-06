@@ -1,7 +1,7 @@
 Hi! My name is Zeeshan Ahmed 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End React Developer from Pakistan.
+🌍  I am a passionate Software Engineer from Pakistan.
 <br/>
 
 ### Skills
