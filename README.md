@@ -11,7 +11,7 @@ Hi! My name is Zeeshan Ahmed 😄
 	<li>JavaScript</li>
 	<li>React</li>
 	<li>NextJs</li>
-	<li>Noje.js</li>
+	<li>Node.js</li>
 	<li>Express.js</li>
 	<li>MongoDb</li>
 </ul>
